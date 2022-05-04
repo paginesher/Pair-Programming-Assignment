@@ -1,4 +1,3 @@
-
 // Easy #1 *8 Driver Jules
 const initialArray = [2, 4, 7, 11, 15, 16];
 function arraySorts(array){
